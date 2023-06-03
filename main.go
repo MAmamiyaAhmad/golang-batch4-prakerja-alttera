@@ -6,8 +6,8 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"yourproject/configs"
-	"yourproject/routes"
+	"gobookshelfapi/configs"
+	"gobookshelfapi/routes"
 )
 
 func main() {
